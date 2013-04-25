@@ -4,8 +4,8 @@ Usage:
 
 * Read from stdin
 
-    $ cat email.txt | mail_viewer.py
+        $ cat email.txt | mail_viewer.py
 
 * Or from a file
 
-    $ mail_viewer.py email.txt
+        $ mail_viewer.py email.txt
